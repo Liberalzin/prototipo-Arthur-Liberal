@@ -1,0 +1,56 @@
+/*#F6E1C3 backpag*/
+/*#E9A178 header*/
+/*#A84448 footer*/
+/*#7A3E65*/
+
+*{
+    padding: 0;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    font-family:'Lucida Grande', Verdana, sans-serif;
+    background-color: #865DFF;
+}header{
+    background-color:#191825;
+    padding: 100px;
+}.header__imagem{
+    width: auto;
+    height: auto;
+    max-width: 400px;
+    margin-left: 34%;
+}
+main{
+    text-align: center;
+}
+h1, h2, h4{
+    padding: 10px;
+}
+
+figure{
+    background-color: #191825 ;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 40px;
+    margin-left: 300px;
+    margin-right: 300px;
+}figure img{
+    width: 100%;
+}.main__imagem{
+    max-width: 100rem;
+    max-height:30rem;
+    width: auto;
+    height: auto;
+}
+p{ 
+ text-align: left;
+ padding: 30px;
+}
+footer{
+    background-color:#66347F;
+    text-align: center;
+}.footer__titulo, .footer__texto{
+    text-align: center;
+    padding: 10px;
+}
